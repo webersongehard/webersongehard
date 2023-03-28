@@ -24,8 +24,7 @@
   <a href="https://www.instagram.com/webersongehard/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weberson-gehard-5b9353204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/webersongehard/webersongehard/blob/output/github-contribution-grid-snake.svg)
- 
+  
 </div>
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=webersongehard&repo=webersongehard&theme=react)](https://github.com/webersongehard/webersongehard)
